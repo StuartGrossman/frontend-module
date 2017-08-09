@@ -1,0 +1,14 @@
+1. Using your own creativity, build a small tag selecting service using firebase, html and javascript .
+  - Each tag is represented in its own box.
+  - When the tag is clicked its highlighted, and stored into a list in fire base
+    - the list should be at tags / { UserID } / (user the .push({ OBJECT }))
+
+    - Make it as smooth and reactive as possible, take any animations or css from the web as you find.
+    - Have at least 5 rows of tags
+
+2. Create a clean step system, with progress bar.
+    -Essentialy change classes on html elements to turn their display off and on
+    -Progress bar moves with each new state change
+    -4 Pages of progress
+    -Each page of progress is completed with a button press
+    
